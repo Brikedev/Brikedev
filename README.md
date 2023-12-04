@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hola, me llamo Brandon o Brike
+
+## Desarrollador .net core backend, desarrollo de videojuegos
+
+Ingeniero de Sistemas con mas de 3 añoas de experiencia en ciencia de datos y 1 en el desarrollo de software.
+
+Buscando oportunidades para crear mi negocio y dar un paso adelante.
+
+Junior mi comienzo - Senior mi primera meta. 
 
 <!--
 **Brikedev/Brikedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
